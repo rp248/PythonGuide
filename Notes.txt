@@ -1,0 +1,3 @@
+It is a multipurpose, high-level, object-oriented, interactive, interpreted and extremely user-friendly
+programming language.Being interactive means that you can type the code straight in Python console which then interacts
+with the interpreter for execution
